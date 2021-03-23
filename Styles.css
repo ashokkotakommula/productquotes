@@ -265,6 +265,17 @@ body {
     .annual-savings h3{
         font-size: 14px;
     }
+    .info-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 120px;
+    }
+    .info-second {
+        display: flex;
+        width: 130px;
+        justify-content: space-between;
+    }
     
 }
 
