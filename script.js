@@ -12,7 +12,7 @@
 
 const options = document.getElementById('select-block');
 
-//response saved in an (api response is limited)
+//response saved in an array (api response is limited)
 const data =  [
        {
            "model_id": 2,
