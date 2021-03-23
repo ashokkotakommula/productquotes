@@ -1,1 +1,1 @@
-this project created using html, css and javaScript.
+this project is created using html, css and javaScript.
